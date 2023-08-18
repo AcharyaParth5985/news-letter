@@ -11,7 +11,7 @@ function MainContent({cat,adata}) {
         <aside>
           <div>
             <div className="issue">
-              <Link to="/" > <span id="catogaryName"> {cat} </span> New's </Link>
+              <Link to="/the-daily-bugle" > <span id="catogaryName"> {cat} </span> New's </Link>
             </div>
             <div className="issue">
               <Selector data={adata} />

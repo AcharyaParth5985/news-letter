@@ -23,7 +23,7 @@ function App() {
       <Router>
         <MainContent cat={catogary} adata={mydata}/>
         <Routes>
-          <Route key="one" path='/' element={<CatogaryNews catg='all' />}/>
+          <Route key="one" path='/the-daily-bugle' element={<CatogaryNews catg='all' />}/>
           {
             mydata.map(
               (values)=>{
