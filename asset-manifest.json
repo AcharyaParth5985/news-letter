@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/the-daily-bugle/static/js/main.2813142d.js",
+    "main.js": "/the-daily-bugle/static/js/main.ec4a1197.js",
     "index.html": "/the-daily-bugle/index.html",
-    "main.2813142d.js.map": "/the-daily-bugle/static/js/main.2813142d.js.map"
+    "main.ec4a1197.js.map": "/the-daily-bugle/static/js/main.ec4a1197.js.map"
   },
   "entrypoints": [
-    "static/js/main.2813142d.js"
+    "static/js/main.ec4a1197.js"
   ]
 }
