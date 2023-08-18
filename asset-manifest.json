@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/the-daily-bugle/static/js/main.2c2f622f.js",
+    "index.html": "/the-daily-bugle/index.html",
+    "main.2c2f622f.js.map": "/the-daily-bugle/static/js/main.2c2f622f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2c2f622f.js"
+  ]
+}
